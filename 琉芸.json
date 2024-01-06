@@ -706,16 +706,7 @@
   "configurl": "/addons/apptov4/app.php/v1/config/get?p=android",
   "api": "/addons/apptov4/app.php/v1/"}
 },
-{
-			"key": "lurenjia",
-			"name": "🍑超清秒看",
-			"type": 1,
-			"api": "https://www.dytt996.com/api.php/provide/vod/?ac=list",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"playUrl": "json:https://gg.dytt996.com/quad.php?url="
-},
+
 {
 	"key": "亮亮",
 	"name": "🆚亮亮┃APP",
