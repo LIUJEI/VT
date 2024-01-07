@@ -1,0 +1,21 @@
+{"storeHouse": [
+
+{
+    "sourceName":"🏡【电视盒子】极狐仓库",
+    "sourceUrl":"https://jihulab.com/YUN88/Lyun/-/raw/master/GitLab.json?ref_type=heads"
+},
+{
+    "sourceName": "🏡AtomGit仓库",
+    "sourceUrl": "https://atomgit.com/liuyun/VC/raw/master/AtomGit.json"
+},
+{
+    "sourceName": "🏡跑路仓库",
+    "sourceUrl": "https://pan.shangui.cc/f/J0KEHK/paoLu.json"
+},
+{
+    "sourceName": "🏡notabug仓库",
+    "sourceUrl": "https://notabug.org/liuyun/H-2023/raw/master/notabug.json"
+}
+
+]
+}
