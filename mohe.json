@@ -2,8 +2,8 @@
 /*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
 
     "warningText":"💕永久完全免费，切勿付费购买💕",  
-
-    "spider":"https://notabug.org/liuyun/H-2023/raw/master/jar/1228.jar",
+    "spider":"https://vip.123pan.cn/1823165373/tvbox/jar/cally.jar;md5;f97ba9e0745f9ecca6356a930e17640f",
+    //"spider":"https://notabug.org/liuyun/H-2023/raw/master/jar/1228.jar",
  
     "lives": [{"name": "live2","type": 0,"url": "./lives/live2.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}"}],
 
@@ -14,10 +14,10 @@
 "sites": [
 {
     "key":"豆豆",
-    "name":"🇨🇳┣☪琉✿芸┫推荐┃更新:24.01.02┃",
+    "name":"🇨🇳┣☪琉✿芸┫推荐┃更新:24.01.06┃",
     "type":3,
     "api":"csp_DouDou",
-    "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
+    "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt",
     "searchable": 0,
     "quickSearch": 0,
     "filterable":0
@@ -69,6 +69,18 @@
     "线路数组": "data-dropdown-value=&&</div>[不包含:夸克网盘]",
     "线路标题": "<span>&&</small>[替换:</span><small>>>👉]+集♥",
     "播放数组": "<div class=\"module-play-list\">&&</div>"}
+},
+{  
+    "key":"老王",
+    "name":"正版🍁老王影视",
+    "type":3,
+    "api":"csp_XBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e+module-item-text\">&&</div>",
+    "分类url":"https://laowang.lol/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+    "分类":"电影$movie#电视剧$tv#综艺$tvshow#动漫$animation"}
 },
 {
     "key":"bydj",
@@ -1994,9 +2006,9 @@
     {"name":"爱酷嗅探","hosts":["cdn.json.icu"],"regex": ["#EXTINF:1.000000,[\\s\\S]*?#EXT-X-ENDLIST"] }, 
     {"name":"米来嗅探","hosts":["zy.behds.cn"],"regex": ["#EXTINF"] },
     {"name":"视觉","hosts":["Xinsj"],"regex":["#EXTINF.*?\\s+.*?muguacdn*?\\.ts\\s+","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-	  {"name": "视觉广告","hosts": ["Xinsj"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-	  {"name":"极速","hosts":["jszy"],"regex":["#EXTINF.*?\\s+.*?muguacdn*?\\.ts\\s+","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-	  {"name": "极速广告","hosts": ["jszy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+    {"name": "视觉广告","hosts": ["Xinsj"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+    {"name":"极速","hosts":["jszy"],"regex":["#EXTINF.*?\\s+.*?muguacdn*?\\.ts\\s+","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+    {"name": "极速广告","hosts": ["jszy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
     {"name":"索尼嗅探","hosts":["suonizy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7.680000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
     {"name":"极速嗅探","hosts":["jszy"],"regex":["#EXTINF.*?\\s+.*?muguacdn*?\\.ts\\s+","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
     {"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
