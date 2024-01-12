@@ -29,16 +29,24 @@
   "ext":"https://download.kstore.space/download/4928/mfsj/json/哔哩影剧.json"
 },
 {
-  "key": "996",
-  "name": "🎆蓝色┃秒播",
-  "type": 3,
-  "filterable": 1,
-  "api": "csp_Panda",
-  "jar": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
-  "ext": {
-  "分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
-  "分类": "电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14",
-  "筛选": "1"}
+    "key":"csp_996",
+    "name": "🎆蓝色┃秒播",
+    "type":3,
+    "api":"csp_XBPQ",
+    "jar": "https://vip.123pan.cn/1823165373/tvbox/jar/cally.jar;md5;f97ba9e0745f9ecca6356a930e17640f",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext": {
+    "主页url": "https://www.cs1369.com",
+    "简介": "【琉✿芸】提醒您请勿相信影片中的广告，以免上当受骗！+<p class=\"col-pd\">&&</p>",
+    "分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "线路数组": "</span><h3 class=\"title\">&&</h3>",
+    "线路标题": "cally在线播放+<h3&&</h3>♥",
+    "播放数组": "<ul class=\"stui-content__playlist clearfix\">&&</ul>",
+    "播放标题": ">&&<",
+    "播放列表": "<a&&/a>",
+    "分类": "爽文短剧$4#电影$1#电视剧$2#动漫$3#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11"}
 },
 {
   "key": "XAL蓝光",
