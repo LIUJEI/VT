@@ -1,69 +1,66 @@
 {
-  "wallpaper": "https://tuapi.eees.cc/api.php?category=meinv&type=302",
-  "lives": [
+  “壁纸”：“https://tuapi.eees.cc/api.php?category=meinv&type=302”，
+  “生活”：[
     {
-      "name": "live",
-      "url": "https://pan.shangui.cc/f/10bzTw/v%EF%BC%88%E5%8A%A0%E5%AF%86%E7%A0%81%EF%BC%891.txt",
-      "type": 0,
-      "playerType": 1,
-      "ua": "okhttp/3.12.13",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      “名称”：“直播”，
+      "网址" : "https://pan.shangui.cc/f/10bzTw/v%EF%BC%88%E5%8A%A0%E5%AF%86%E7%A0%81%EF%BC%891.txt" ,
+      “类型”： 0，
+      “玩家类型” : 1 ,
+      “ua”：“okhttp/ 3.12 . 13 ”，
+      “epg”：“http://epg. 112114 .xyz/?ch= {名称} & date = {日期} ”，
+      “操作系统”：“https://epg. 112114 .xyz/logo/ {名称} .png”
     }
-  ],
-  "sites": [
+  ]，
+  “网站”：     [
     {
-        "key": "火狐",
-        "name": "📛火狐【2024/6/10】",
-        "type": 1,
-        "api": "https://hhzyapi.com/api.php/provide/vod/",
-        "searchable": 1,
-        "quickSearch": 0,
-        "filterable": 1,
-        "categories": ["内地剧","伦理片"]
-     },
-     
-     {
-      "key": "drpy_js_ikanbot3",
-      "name": "📛TH┃爱看写真",
-      "type": 1,
-      "api": "https://kkzy.me/api.php/provide/vod/",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
+        "key" : "易看采集" ,
+        "name" : "📛TH┃易看采集【2024/6/21】" ,
+        “类型”：1，
+      "api" : "https://api.yikanapi.com/api.php/provide/vod/" ,
+      “可搜索”：1，
+      “快速搜索”：1
+    }，
+    {
+      “键”：“drpy_js_ikanbot 3 ”，
+      "name" : "📛TH┃爱看写真",
+      “类型”：1，
+      "api" : "https://kkzy.me/api.php/provide/vod/",
+      “可搜索”： 1，
+      “可录制”：
+      “风格”：{
+        “类型”：“矩形”，
+：1.33
       }
-    },
+    }，
     {
-      "key": "采集E(玉兔)",
-      "name": "撸铁🍅番茄",
-      "type": 1,
-      "api": "https://apiyutu.com/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "精品推荐",
-        "国产精品",
-        "主播秀色",
-        "日本有码",
-        "日本无码",
-        "中文字幕",
-        "童颜巨乳",
-        "性感人妻",
-        "强奸乱伦",
-        "欧美情色",
-        "童真萝莉",
-        "三级伦理",
-        "卡通动漫",
+      "key" : "采集E(玉兔)" ,
+      “姓名”
+      “类型”：1，
+      "api" : "https://apiyutu.com/api.php/provide/vod/" ,
+      “播放网址”
+      “可搜索”： 1，
+      “快速搜索”：1，
+      “可过滤”：1、
+      “类别”: [
+        “精品推荐” ,
+        “精品”,
+        “主播秀色”,
+        “日本有码”,
+        “日本無码”,
+        “中文字幕”,
+        “童颜巨乳”,
+        “性感人妻”,
+        "强奸",
+        “欧美情色”,
+        《童真萝莉》,
+        《三级伦理》,
+        “卡通动漫”,
         "丝袜OL",
-        "口爆颜射",
-        "自拍偷拍",
-        "日本片商",
-        "Cosplay",
-        "素人自拍",
+        “口爆颜射”,
+        “自拍偷拍”,
+        “日本片商”,
+        “角色扮演”,
+        “素人自拍”
         "台湾色情",
         "韩国自拍",
         "性感港姐",
@@ -129,7 +126,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },   
+    },
+    {
+      "key":"性南国",
+      "name":"撸铁💗南国",
+      "type":1,
+      "api":"https://api.sexnguon.com/api.php/provide/vod/"
+    },
     {
       "key": "采集F南国",
       "name": "撸铁🥜花生",
@@ -277,19 +280,71 @@
       "quickSearch": 0
     },
     {
-      "key": "chengren",
-      "name": "🈵成人影视1",
-      "type": 1,
-      "api": "https://www.partnersky-horoskop.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
+    "key":"155",
+    "name":"❤️155采集",
+    "type":0,
+    "playerType":2,
+    "api":"https://155api.com/api.php/provide/vod/at/xml",
+    "searchable":0,
+    "quickSearch":0
+}, 
     {
-      "key": "*黄AV",
-      "name": "*黄AV",
-      "type": 0,
-      "api": "https://www.pgxdy.com/api/xml.php"
+    "key":"gdlsp.com",
+    "name":"💛老色胚采集",
+    "type":0,
+    "api":"https://www.gdlsp.com/api/xml.php",
+    "quickSearch":1,
+    "searchable":1,
+    "filterable":1
+},
+
+    {
+      "key":"chengren",
+       "name":"🈵伙伴天空",
+        "type":1,
+        "api":"https://www.partnersky-horoskop.com/api.php/provide/vod/",
+        "searchable":1, 
+        "quickSearch":1
+     },
+    { 
+    "key": "KpgxdyE", 
+    "name": "黄AV资源", 
+    "type": 0, 
+    "api": "https://www.pgxdy.com/api/xml.php", 
+    "searchable": 1, 
+    "quickSearch": 1, 
+    "filterable": 1 
+},
+ {
+      "key": "鸡坤资源",
+      "name": "🔞鸡坤资源",
+      "type": 1,
+      "api": "https://jkunzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
+     {
+    "key": "老杨",
+    "name": "❤️老杨采集",
+    "type": 1,
+    "api": "https://api.apilyzy.com/api.php/provide/vod/",
+    "playUrl": "",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "categories": [
+        "日本有码",
+        "日本无码",
+        "中文字幕",
+        "变态另类",
+        "巨乳美乳",
+        "动漫精品",
+        "熟女人妻",
+        "自拍偷拍",
+        "海外明星",
+        "国产传媒"]
+},
     {
       "key": "10",
       "name": "📛精选自用且免费📛",
