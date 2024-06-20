@@ -14,15 +14,16 @@
   ],
   "sites": [
 {
-      "key": "csp_xBPQ_公子福利",
-      "name": "👇点主页↙️切❤️福利",
-      "type": 3,
-      "api": "csp_xBPQ",
+    "key": "drpy_js_ikanbot3",
+      "name": "📛TH┃爱看写真",
+      "type": 1,
+      "api": "https://kkzy.me/api.php/provide/vod/",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "{\"分类url\":\"https://avhh.vip/cq/{cateId}-{catePg}.html\", \"分类\":\"1$2k-yazhou#💖点主页切换源$2k-zipaitoupai#2换VPN$2k-chaoqingchuanmei#伦理$2k-3Ddongman#有码$2k-oumei#无码$2k-luanlunrenqi#请勿相信！$2k-siwazhifu#禁止未成年观看$2k-zhibolubo#SM另类$2k-SMlinglei#超清三级$2k-chaoqingsanji\",\"副标题\":\"duration\\\">&&</div\",\"链接\": \"href=\\\"/cq/Kplay&&.html\\\"\", \"链接前缀\": \"https://avhh.vip/cq/Kplay\", \"链接后缀\": \".html\", \"直接播放\": \"1\" }",
-      "jar": "https://www.hmg.pw:9999/%E6%9D%A8%E5%AE%B6%E6%9E%AA%E6%B3%95/lib/xBPQ.jar"
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
 },
 
 {"key":"易看资源-伦理","name":"💖易看采集","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
