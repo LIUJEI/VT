@@ -242,18 +242,7 @@
     "api": "https://api.tiankongapi.com/api.php/provide/vod/?ac=list",
     "playurl": "https://jx.huishij.com/yun/?url=",
     "categories": ["短剧"] 
-},
-{
-    "key": "L芸机器人", 
-    "name": "🍇┃L芸10┃短剧", 
-    "type": 3,
-    "api": "csp_Ikanbot",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1,
-    "ext": "https://v.aikanbot.com" 
-},	
+}
 {
     "key": "L芸柠檬",
     "name": "🍇┃L芸11┃短剧",
