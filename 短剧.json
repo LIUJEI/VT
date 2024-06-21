@@ -232,7 +232,7 @@
     "name": "🍇┃L芸8┃短剧",    
     "type": 1,
     "api": "https://leshiapi.com/api.php/provide/vod/at/json/",
-    "playurl": "https://leshivideoplayurl.com/?url="         
+    "playurl": "https://leshivideoplayurl.com/?url=",         
     "categories": [ "女频恋爱", "反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市","短剧"]
 },
 {
@@ -240,7 +240,7 @@
     "name": "🍇┃L芸9┃短剧", 
     "type": 1,
     "api": "https://api.tiankongapi.com/api.php/provide/vod/?ac=list",
-    "playurl": "https://jx.huishij.com/yun/?url="
+    "playurl": "https://jx.huishij.com/yun/?url=",
     "categories": ["短剧"] 
 },
 {
