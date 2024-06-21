@@ -1,8 +1,9 @@
 {
   "urls": [
   
-    {"name": "🚸《曼森》","url": "https://cdn.jsdelivr.net/gh/LIUJEI/VT@main/liuyun.json"},
-    {"name": "🚸《魔王》","url": "https://cdn.jsdelivr.net/gh/LIUJEI/VT@main/mohe.json"},
-    {"name": "🚸《黄剧》","url": "https://cdn.jsdelivr.net/gh/LIUJEI/VT@main/蓝色库.json"}
+    {"name": "🚸《影视》","url": "https://cdn.jsdelivr.net/gh/LIUJEI/VT@main/liuyun.json"},
+    {"name": "🚸《短剧》","url": "https://cdn.jsdelivr.net/gh/LIUJEI/VT@main/短剧.json"},
+    {"name": "🚸《学习》","url": "https://cdn.jsdelivr.net/gh/LIUJEI/VT@main/学习.json"},
+    {"name": "🚸《休闲》","url": "https://cdn.jsdelivr.net/gh/LIUJEI/VT@main/休闲.json"}
 ]
 }
