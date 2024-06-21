@@ -2,7 +2,7 @@
   "urls": [
   
     {"name": "🚸《影视》","url": "https://cdn.jsdelivr.net/gh/LIUJEI/VT@main/liuyun.json"},
-    {"name": "🚸《短剧》","url": "https://cdn.jsdelivr.net/gh/LIUJEI/VT@main/短剧.json"},
+    {"name": "🚸《短剧》","url": "https://gitee.com/lyun_1_0/tb/raw/master/%E9%87%87%E9%9B%86.json"},
     {"name": "🚸《学习》","url": "https://cdn.jsdelivr.net/gh/LIUJEI/VT@main/学习.json"},
     {"name": "🚸《采集》","url": "https://cdn.jsdelivr.net/gh/LIUJEI/VT@main/采集.json"},
     {"name": "🚸《休闲》","url": "https://cdn.jsdelivr.net/gh/LIUJEI/VT@main/休闲.json"}
