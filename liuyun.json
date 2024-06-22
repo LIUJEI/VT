@@ -268,8 +268,7 @@
     "key": "天天影视",
     "name": "🌙天天影视",
     "type": 3,
-    "api": "csp_AppTT",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
+    "api": "csp_AppTT",  
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
@@ -278,8 +277,7 @@
     "key": "追剧影视",
     "name": "🌙追剧影视",
     "type": 3,
-    "api": "csp_AppZJ",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
+    "api": "csp_AppZJ",   
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
@@ -288,8 +286,7 @@
     "key": "快看影视",
     "name": "🌙快看影视",
     "type": 3,
-    "api": "csp_Kuaikan",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
+    "api": "csp_Kuaikan", 
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
@@ -298,8 +295,7 @@
     "key": "胖虎影视",
     "name": "🌙胖虎影视",
     "type": 3,
-    "api": "csp_Panghu",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
+    "api": "csp_Panghu",  
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
@@ -309,8 +305,7 @@
     "key": "剧圈影视",
     "name": "🌙剧圈影视",
     "type": 3,
-    "api": "csp_Juqq",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
+    "api": "csp_Juqq", 
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
@@ -320,7 +315,6 @@
     "name": " 🌙忍者影视",
     "type": 3,
     "api": "csp_AppRZ",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
@@ -330,8 +324,7 @@
     "key": "毛驴影视",
     "name": "🌙毛驴影视",
     "type": 3,
-    "api": "csp_MaoLv",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
+    "api": "csp_MaoLv", 
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
@@ -341,7 +334,6 @@
     "name": "🌙圣城影视",
     "type": 3,
     "api": "csp_SC1080",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
@@ -351,7 +343,6 @@
     "name": " 🌙Voflix",
     "type": 3,
     "api": "csp_Voflix",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
@@ -362,7 +353,6 @@
     "name": "🌙兄弟影视",
     "type": 3,
     "api": "csp_Wexxiongdiys",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -371,7 +361,6 @@
     "name": "🌙明日影视",
     "type": 3,
     "api": "csp_WexMingriys",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -380,7 +369,6 @@
     "name": "🌙腐剧视频",
     "type": 3,
     "api": "csp_WexFujutv",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -389,7 +377,7 @@
     "name": "🌙地瓜影视",
     "type": 3,
     "api": "csp_Wexdiguatv",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
+
     "searchable": 1,
     "changeable": 1
 },      
@@ -398,7 +386,6 @@
     "name": "🌙啾啾影视",
     "type": 3,
     "api": "csp_Wexjiohub",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -407,7 +394,6 @@
     "name": "🌙星辰影视",
     "type": 3,
     "api": "csp_WexXingchen",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -416,7 +402,6 @@
     "name": "🌙农民影视",
     "type": 3,
     "api": "csp_WexNmys",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -425,7 +410,6 @@
     "name": "🌙纯享影视",
     "type": 3,
     "api": "csp_WexF4kvm",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -434,7 +418,6 @@
     "name": "🌙两个磁力",
     "type": 3,
     "api": "csp_Wexbttwo",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -443,7 +426,6 @@
     "name": "🌙骚火影视",
     "type": 3,
     "api": "csp_Wexsaohuo",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -452,7 +434,6 @@
     "name": "🌙看看影视",
     "type": 3,
     "api": "csp_WebIV",
-   "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0
@@ -462,7 +443,6 @@
     "name": "🌙米米影视",
     "type": 3,
     "api": "csp_WebDM",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0
@@ -472,7 +452,6 @@
     "name": "🌙闪电影视",
     "type": 3,
     "api": "csp_Wexshandian",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -481,7 +460,6 @@
     "name": "🌙愉悦影视",
     "type": 3,
     "api": "csp_Wexyuyueys",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -490,7 +468,6 @@
     "name": "🌙花蕊影视",
     "type": 3,
     "api": "csp_Wexhuaruitv",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -499,7 +476,6 @@
     "name": "🌙甲子影视",
     "type": 3,
     "api": "csp_Wexjiazitv",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -508,7 +484,6 @@
     "name": "🌙视频影库",
     "type": 3,
     "api": "csp_WebVidHub",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "quickSearch": 0,
     "filterable": 0,
@@ -519,7 +494,6 @@
     "name": "🌙素白影视",
     "type": 3,
     "api": "csp_Subaibai",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -528,7 +502,6 @@
     "name": "🌙爱看机器",
     "type": 3,
     "api": "csp_Ikanbot",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 1,
@@ -539,7 +512,6 @@
     "name": "精品短剧",
     "type": 3,
     "api": "csp_Wexduanjuvip",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -548,7 +520,6 @@
     "name": "星芽短剧",
     "type": 3,
     "api": "csp_AppXY",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "quickSearch": 0,
     "filterable": 0
@@ -558,7 +529,6 @@
     "name": "秒播短剧",
     "type": 3,
     "api": "csp_Wexduanjuvop",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -567,7 +537,6 @@
     "name": "仙品短剧",
     "type": 3,
     "api": "csp_Wexduanjuhema",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -576,7 +545,6 @@
     "name": "极品短剧",
     "type": 3,
     "api": "csp_Wexduanjuvmp",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -585,7 +553,6 @@
     "name": "精品短剧",
     "type": 3,
     "api": "csp_Wexvipduanju",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -594,7 +561,6 @@
     "name": "良品短剧",
     "type": 3,
     "api": "csp_Wexduanjuvip",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -603,7 +569,6 @@
     "name":"抖音短剧",
     "type":3,
     "api":"csp_XBPQ",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "ext":{
     "简介":"祝您观影愉快",
     "搜索url":"http://www.duanjutv.cc/vodsearch/{wd}----------{pg}---.html",
@@ -619,7 +584,6 @@
     "name":"短剧吧网",
     "type":3,
     "api":"csp_XBPQ",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "ext":{
     "简介":"祝您观影愉快",
     "分类":"恋爱$lianai#反转$fanzhuan#悬疑$xuanyi#穿越$chuanyue#古装$guzhuang#都市$dushi",
@@ -630,7 +594,6 @@
     "name":"短剧天堂",
     "type":3,
     "api":"csp_XBPQ",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "ext":{
     "简介":"祝您观影愉快",
     "搜索url":"https://duanjutt.tv/vodsearch/{wd}-----------{pg}---.html",
@@ -646,7 +609,6 @@
     "name":"短剧网香",
     "type":3,
     "api":"csp_XBPQ",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "ext":{
     "简介":"祝您观影愉快",
     "分类":"逆袭$逆袭#甜宠$甜宠#虐恋$虐恋#穿越$穿越#重生$重生",
@@ -657,7 +619,6 @@
     "name":"胖嘟短剧",
     "type":3,
     "api":"csp_XBPQ",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "ext":{
     "分类":"全部$qb#言情$yq#古代$dg#都市$ds",
     "分类url":"https://m.pangdo.com/{cateId}/list_{catePg}.html"}
@@ -667,7 +628,6 @@
     "name": "饭团影院",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "ext": {
     "简介": "【饭团影院】提醒您请勿相信影片中的广告，以免上当受骗。+简&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;介：&&</p>",
     "线路标题": "[替换:索索线路>>公众号神仙APP]",
@@ -679,7 +639,6 @@
     "name": "七七影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "ext": {
     "影片类型": "module-info-tag\">&&立即播放",
     "搜索模式": "1",
@@ -699,7 +658,6 @@
     "name": "神仙影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "https://cloud.lxweb.cn/f/D1KJI1/liuyun.jar",
     "ext": {
     "分类url": "https://ys.sxtv.top/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
     "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#4K电影$36#邵氏电影$37"}
