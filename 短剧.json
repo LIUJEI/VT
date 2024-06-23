@@ -15,7 +15,6 @@
     "changeable": 1,
     "ext": "https://v.aikanbot.com"
 },
-
 {
     "key": " 影探VIP",
     "name": " 🎬┣影探┫短剧",
@@ -24,6 +23,21 @@
     "categories": ["微短剧4K","热门短剧"], 
     "ext": "http://cms-myz.lyyytv.cn/api.php/app/"
 },
+{
+  "key": "免费爽短剧",
+  "name": "🐽爽短剧",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "ext": {
+    "数组": "item\">&&</div>",
+    "标题": "title=\"&&\"",
+    "图片": "src=\"&&\"",
+    "直接播放": "1",
+    "搜索url": "https://www.mianfeishuangju.com/search/{wd}/",
+    "分类url": "https://www.mianfeishuangju.com/categories/{cateId}/{catePg}/",
+    "分类": "反转爽剧$fanzhuanshaungju#古装仙侠$guzhuangxianxia#现代穿越$niandaichuanyue#现代都市$xiandaidoushi#女恋总裁$nvlianzongcai#脑洞悬疑$categories/naodongxuanyi#爽剧合集$shuangjuheji"
+  } 
+ 
 {
     "key":"短剧tv",
     "name":"🎆┣抖音┫短剧",
