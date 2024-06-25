@@ -509,6 +509,7 @@
     "name": "秒播短剧",
     "type": 3,
     "api": "csp_Wexduanjuvop",
+    "jar":"./liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -517,6 +518,7 @@
     "name": "仙品短剧",
     "type": 3,
     "api": "csp_Wexduanjuhema",
+   "jar":"./liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -525,14 +527,7 @@
     "name": "极品短剧",
     "type": 3,
     "api": "csp_Wexduanjuvmp",
-    "searchable": 1,
-    "changeable": 1
-},
-{
-    "key": "精品短剧",
-    "name": "精品短剧",
-    "type": 3,
-    "api": "csp_Wexvipduanju",
+   "jar":"./liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
@@ -541,6 +536,7 @@
     "name": "良品短剧",
     "type": 3,
     "api": "csp_Wexduanjuvip",
+    "jar":"./liuyun.jar",
     "searchable": 1,
     "changeable": 1
 },
