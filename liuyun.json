@@ -876,8 +876,8 @@
     "key":"dr_优酷",
     "name":"🏠优酷【官方】",
     "type":3,
-    "api": "./dry2.js",
-    "ext": "./yku.js"
+    "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/LIUJEI/VT/main/dry2.js",
+    "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/LIUJEI/VT/main/yku.js"
 },
 
   {"key": "感觉","name": "🏧┣新觉┃APP","type": 3,"api": "csp_AppYsV2","ext": "http://ww.hanliu8.cn:9891/api.php/app/"},
