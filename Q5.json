@@ -1,11 +1,11 @@
 {
   "urls": [
   
-    {"name": "🚸《影视》","url": "https://cdn.jsdelivr.net/gh/LIUJEI/VT@main/liuyun.json"},
-    {"name": "🚸《短剧》","url": "https://cdn.jsdelivr.net/gh/LIUJEI/VT@main/短剧.json"},
-    {"name": "🚸《魔盒》","url": "https://cdn.jsdelivr.net/gh/LIUJEI/VT@main/mohe.json"},
-    {"name": "🚸《采集》","url": "https://cdn.jsdelivr.net/gh/LIUJEI/VT@main/采集.json"},
-    {"name": "🚸《休闲》","url": "https://cdn.jsdelivr.net/gh/LIUJEI/VT@main/休闲.json"},
+    {"name": "🚸《影视》","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/LIUJEI/VT/main/liuyun.json"},
+    {"name": "🚸《短剧》","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/LIUJEI/VT/main/短剧.json"},
+    {"name": "🚸《魔盒》","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/LIUJEI/VT/main/mohe.json"},
+    {"name": "🚸《采集》","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/LIUJEI/VT/main/采集.json"},
+    {"name": "🚸《休闲》","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/LIUJEI/VT/main/休闲.json"},
     {"name": "🚸《学习》","url": "https://cdn.jsdelivr.net/gh/LIUJEI/VT@main/学习.json"}
 ]
 }
