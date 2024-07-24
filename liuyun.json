@@ -15,13 +15,13 @@
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/douban.js"
 },
 {
-    "key": "圥忈副页",
+    "key": "琉芸副页",
     "name": "🎬┣豆瓣┫备用",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
     "副标题": "极速蓝光",
-    "影片地区": "圥忈制作",
+    "影片地区": "琉芸制作",
     "简介": "请勿相信影片中的广告，以免上当受骗。+<p>&&</p>",
     "线路数组": "onclick=&&</li>",
     "线路标题": "极速蓝光",
@@ -602,7 +602,7 @@
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
-    "影片地区": "圥忈制作",
+    "影片地区": "琉芸制作",
     "影片状态": "备注：&&</div>",
     "影片类型": "module-info-tag\">&&立即播放",
     "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"line-height: 20px;\"&&</div>",
@@ -617,7 +617,7 @@
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
-    "影片类型": "圥忈制作",
+    "影片类型": "琉芸制作",
     "播放标题": ">&&<[不包含:1080P]",
     "分类url": "https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
     "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju"}
@@ -638,7 +638,7 @@
     "api": "csp_XBPQ",
     "ext": {
     "简介": "【饭团影院】提醒您请勿相信影片中的广告，以免上当受骗。+简&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;介：&&</p>",
-    "线路标题": "[替换:索索线路>>公众号神仙APP]",
+    "线路标题": "[替换:索索线路>>琉芸APP]",
     "分类url": "http://www.zztong.net/t/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
     "分类": "电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman"}
 },
@@ -880,7 +880,6 @@
     "ext": "./yku.js"
 },
 
-
   {"key": "感觉","name": "🏧┣新觉┃APP","type": 3,"api": "csp_AppYsV2","ext": "http://ww.hanliu8.cn:9891/api.php/app/"},
   {"key": "奴娜","name": "🏧┣奴娜┃APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.nntv.in/api.php/v1.vod"},
   {"key": "异界","name": "🏧┣异界┃APP","api": "csp_AppYsV2","type": 3,"ext": "http://ysjtv.yy365.vip/api.php/app/"},
@@ -907,7 +906,173 @@
   {"key": "小宝","name": "🏧┣小宝┫影视","type": 1,"api": "http://www.xiaobao168.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
   {"key": "何以","name": "🏧┣何以┫直连","type": 1,"api": "https://www.heyik.cn/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
   {"key": "北川","name": "🏧┣北川┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.bczhuiju.com/api.php/v1.vod"},
-  
+{
+            "key": "优质资源",
+            "name": "🌀优质┃采集",
+            "type": 0,
+            "api": "https://api.1080zyku.com/inc/ldg_api.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playurl": "https://vip.zykbf.com/?url="
+},
+{
+            "key": "非凡资源",
+            "name": "🌀非凡┃采集",
+            "type": 1,
+            "api": "http://ffzy1.tv/api.php/provide/vod/",
+            "searchable": 1,
+            "changeable": 1,
+            "playurl": "https://svip.ffzyplay.com/?url="
+},
+{
+            "key": "量子资源",
+            "name": "🌀量子┃采集",
+            "type": 1,
+            "api": "http://23.224.183.18/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "playurl": "https://lziplayer.com/?url="
+},
+{
+            "key": "乐视",
+            "name": "🌀乐视┃采集",
+            "type": 1,
+            "api": "https://leshiapi.com/api.php/provide/vod/at/json/",
+            "searchable": 1,
+            "changeable": 1,
+            "playurl": "https://leshivideoplayurl.com/?url="
+},
+{
+            "key": "黑木耳资源",
+            "name": "🌀木耳┃采集",
+            "type": 1,
+            "api": "https://heimuer.tv/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playurl": "https://player.heimuer.tv/index.html?url="
+},
+{
+            "key": "csp_xml_ikun",
+            "name": "🌀爱坤┃采集",
+            "type": 1,
+            "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
+            "playerType": 2,
+            "playurl": "https://www.ikdmjx.com/?url="
+},
+{
+            "key": "喵派对",
+            "name": "🌀喵趣┃采集",
+            "type": 1,
+            "api": "https://www.lezy.lol/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+},
+{
+            "key": "华为吧资源",
+            "name": "🌀微吧┃采集",
+            "type": 1,
+            "api": "https://hw8.live/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playurl": "https://dp.hw8.live/player/?url="
+},
+{
+            "key": "全看影视",
+            "name": "💡全看┃快播",
+            "type": 1,
+            "api": "https://wrea.91qkw.cc/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+},
+{
+            "key": "墨白影视",
+            "name": "💡墨白┃快播",
+            "type": 1,
+            "api": "https://nm.xxxc137.top/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+},
+{
+            "key": "映迷影视",
+            "name": "💡映迷┃快播",
+            "type": 1,
+            "api": "https://www.inmi.app/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+},
+{
+            "key": "易看影视",
+            "name": "💡易看┃快播",
+            "type": 1,
+            "api": "http://tv.ykzj6.cn/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+},
+{
+            "key": "追风影视",
+            "name": "💡追风┃快播",
+            "type": 1,
+            "api": "http://www.zfsp.cc/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+},
+{
+            "key": "小宝影视",
+            "name": "💡小宝┃快播",
+            "type": 1,
+            "api": "http://www.xiaobao168.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+},
+{
+            "key": "影猫影视",
+            "name": "💡影猫┃快播",
+            "type": 1,
+            "api": "http://ysm.tkbot.fun/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+},
+{
+            "key": "剧狗影视",
+            "name": "💡剧狗┃快播",
+            "type": 1,
+            "api": "https://www.youmuz.cn/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+},
+{
+            "key": "何以影视",
+            "name": "💡何以┃快播",
+            "type": 1,
+            "api": "https://www.heyik.cn/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+},
+{
+            "key": "奇遇影视",
+            "name": "💡奇遇┃快播",
+            "type": 1,
+            "api": "http://qy.wangwangwang.xyz/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+},
+{
+            "key": "HG影视",
+            "name": "💡皇冠┃快播",
+            "type": 1,
+            "api": "https://hong.hgyx.vip/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+},
+{
+            "key": "BILFUN影视",
+            "name": "💡有趣┃快播",
+            "type": 1,
+            "api": "https://www.bilfun.cc/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+},  
 
 {
     "key": "Yinyuetai",
