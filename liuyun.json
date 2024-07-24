@@ -841,43 +841,43 @@
     "key":"dr_卫士",
     "name":"🅾️主力【官方】",
     "type":3,
-    "api":"https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/TS/360.js"
+    "api":"./dry2.js",
+    "ext": "./360.js"
 },
 {
     "key":"dr_腾迅",
     "name":"🐧腾讯【官方】",
     "type":3,
-    "api":"https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
+    "api":"./dry2.js",
     "ext":"./QQtv.js"
 },
 {
     "key":"dr_芒果",
     "name":"🥭芒果【官方】",
     "type":3,
-    "api":"https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
+    "api":"./dry2.js",
     "ext":"./Mtv.js"
 },
 {
     "key":"dr_奇异",
     "name":"🥝爱奇艺【官方】",
     "type":3,
-    "api":"https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
+    "api":"./dry2.js",
     "ext":"./iqy.js"
 },
 {
     "key":"dr_搜狗",
     "name":"🦊搜狗【官方】",
     "type":3,
-    "api":"https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
-    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/TS/Sgou.js"
+    "api":"./dry2.js",
+    "ext":"./Sgou.js"
 },
 {
     "key":"dr_优酷",
     "name":"🏠优酷【官方】",
     "type":3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/TS/dry2.js",
-    "ext": "https://notabug.org/liuyun/H--2024/raw/master/lib/yku.js"
+    "api": "./dry2.js",
+    "ext": "./yku.js"
 },
 
 
