@@ -1169,7 +1169,7 @@
     "searchable": 1,
     "quickSearch": 0,
     "changeable": 0,
-    "ext": "https://notabug.org/liuyun/H--2024/raw/master/json/BiLi.json"
+    "ext": "./BiLi.json"
 },
 {
     "key": "MV",
@@ -1183,7 +1183,7 @@
     "searchable": 1,
     "quickSearch": 0,
     "changeable": 0,
-    "ext":"https://notabug.org/liuyun/H--2024/raw/master/lib/MTV.json"
+    "ext":"./MTV.json"
 },	
 {
     "key": "少儿",
