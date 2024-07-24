@@ -891,8 +891,8 @@
     "key":"dr_优酷",
     "name":"🏠优酷【官方】",
     "type":3,
-    "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
-    "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/优酷视频.js"
+    "api": "./drpy2.min.js",
+    "ext": "./yku.js"
 },
 
   {"key": "感觉","name": "🏧┣新觉┃APP","type": 3,"api": "csp_AppYsV2","ext": "http://ww.hanliu8.cn:9891/api.php/app/"},
