@@ -147,10 +147,10 @@
     "filterable": 1
 },
 {
-	"key": "csp_SP360",
-	"name": "🎆┣三六┫官源",
-	"type": 3,
-	"api": "csp_SP360",
+    "key": "csp_SP360",
+    "name": "🎆┣三六┫官源",
+    "type": 3,
+    "api": "csp_SP360",
     "searchable": 1,
     "changeable": 1
 },  
@@ -481,12 +481,12 @@
     "filterable": 0
 },
 {
-	"key": "QIYIU",
-	"name": "🎆┣奇优┫影视",
-	"type": 3,
+    "key": "QIYIU",
+    "name": "🎆┣奇优┫影视",
+    "type": 3,
     "api": "csp_Qiyou",
-    "jar": "./lib/xmmwudi.jar",
-	"searchable": 1,
+    "jar": "./xmmwudi.jar",
+    "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
 },
@@ -495,7 +495,7 @@
 	"name": "🎆┣至臻┫自营",
 	"type": 3,
 	"api": "csp_Duopan",
-    "jar": "./lib/xmmwudi.jar",
+    "jar": "./xmmwudi.jar",
 	"playerType": 2,
 	"filterable": 1,
 	"ext": "http://mpanso.com/"
@@ -505,7 +505,7 @@
 	"name": "🎆┣耐看┫影视",
 	"type": 3,
 	"api": "csp_Nkdy",
-    "jar": "./lib/xmmwudi.jar",
+    "jar": "./xmmwudi.jar",
 	"playerType": 2,
 	"filterable": 1
 },	
