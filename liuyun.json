@@ -481,6 +481,35 @@
     "filterable": 0
 },
 {
+	"key": "QIYIU",
+	"name": "🎆┣奇优┫影视",
+	"type": 3,
+    "api": "csp_Qiyou",
+    "jar": "./lib/xmmwudi.jar",
+	"searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+},
+{
+	"key": "csp_Netfixtv",
+	"name": "🎆┣至臻┫自营",
+	"type": 3,
+	"api": "csp_Duopan",
+    "jar": "./lib/xmmwudi.jar",
+	"playerType": 2,
+	"filterable": 1,
+	"ext": "http://mpanso.com/"
+},
+{
+	"key": "csp_Nkdy",
+	"name": "🎆┣耐看┫影视",
+	"type": 3,
+	"api": "csp_Nkdy",
+    "jar": "./lib/xmmwudi.jar",
+	"playerType": 2,
+	"filterable": 1
+},	
+{
     "key": "星芽短剧",
     "name": "🎆┣星芽┫短剧",
     "type": 3,
