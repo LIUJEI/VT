@@ -1,6 +1,6 @@
 {
 
-  "spider": "./liuyun.jar;md5;52022ec8a68de9810629e8e4c83c7a87",
+  "spider": "./spider.jar;md5;4240ee3b8c229184391a6dee8c5d3ad6",
   
 
   "warningText":"tv提示:📢接口软件永远免费📢长期维护切勿贩卖",
@@ -110,6 +110,50 @@
     "quickSearch": 1,
     "filterable": 0
 },
+{
+    "key": "全网影视",
+    "name": "🎆┣全网┫影视",
+    "type": 3,
+    "api": "csp_Quanwk",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+},
+{
+    "key": "最新影视",
+    "name": "🎆┣最新┫影视",
+    "type": 3,
+    "api": "csp_Zx1080",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+},
+{
+    "key": "桃子影视",
+    "name": "🎆┣桃子┫影视",
+    "type": 3,
+    "api": "csp_Taozi",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+},
+{
+    "key": "达达龟",
+    "name": "🎆┣达龟┫影视",
+    "type": 3,
+    "api": "csp_Dadag",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+},
+{
+	"key": "csp_SP360",
+	"name": "🎆┣三六┫官源",
+	"type": 3,
+	"api": "csp_SP360",
+    "searchable": 1,
+    "changeable": 1
+},  
 {
     "key": "笙歌影视",
     "name": "🎆┣笙歌┫影视",
