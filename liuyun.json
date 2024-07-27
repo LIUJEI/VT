@@ -491,23 +491,23 @@
     "filterable": 1
 },
 {
-	"key": "csp_Netfixtv",
-	"name": "🎆┣至臻┫自营",
-	"type": 3,
-	"api": "csp_Duopan",
+    "key": "csp_Netfixtv",
+    "name": "🎆┣至臻┫自营",
+    "type": 3,
+    "api": "csp_Duopan",
     "jar": "./xmmwudi.jar",
-	"playerType": 2,
-	"filterable": 1,
-	"ext": "http://mpanso.com/"
+    "playerType": 2,
+    "filterable": 1,
+    "ext": "http://mpanso.com/"
 },
 {
-	"key": "csp_Nkdy",
-	"name": "🎆┣耐看┫影视",
-	"type": 3,
-	"api": "csp_Nkdy",
+    "key": "csp_Nkdy",
+    "name": "🎆┣耐看┫影视",
+    "type": 3,
+    "api": "csp_Nkdy",
     "jar": "./xmmwudi.jar",
-	"playerType": 2,
-	"filterable": 1
+    "playerType": 2,
+    "filterable": 1
 },	
 {
     "key": "星芽短剧",
@@ -526,6 +526,28 @@
     "searchable": 1,
     "changeable": 1
 },
+{
+    "key": "hipy_js_星芽短剧app",
+    "name": "星芽短剧app(drpy_t3)",
+    "type": 3,
+    "api": "http://47.108.190.141/hipy/drpy_libs/drpy2.min.js",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "order_num": 0,
+    "ext": "http://47.108.190.141/hipy/drpy_js/星芽短剧[优].js"
+},
+{
+    "key": "hipy_js_采集之王[合]",
+    "name": "👶采集之王[合]",
+    "type": 3,
+    "api": "http://47.108.190.141/hipy/drpy_libs/drpy2.min.js",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "order_num": 210,
+    "ext": "http://47.108.190.141/hipy/drpy_js/采集之王[合].js?type=url&params=http://47.108.190.141/hipy/json/采集静态.json"
+},	
 {
     "key": "摩托影视",
     "name": "🎆┣摩托┫影视",
@@ -996,7 +1018,7 @@
   {"key": "北川","name": "🏧┣北川┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.bczhuiju.com/api.php/v1.vod"},
 {
             "key": "优质资源",
-            "name": "🌀优质┃采集",
+            "name": "🌀┣优质┃采集",
             "type": 0,
             "api": "https://api.1080zyku.com/inc/ldg_api.php",
             "searchable": 1,
@@ -1005,7 +1027,7 @@
 },
 {
             "key": "非凡资源",
-            "name": "🌀非凡┃采集",
+            "name": "🌀┣非凡┃采集",
             "type": 1,
             "api": "http://ffzy1.tv/api.php/provide/vod/",
             "searchable": 1,
@@ -1014,7 +1036,7 @@
 },
 {
             "key": "量子资源",
-            "name": "🌀量子┃采集",
+            "name": "🌀┣量子┃采集",
             "type": 1,
             "api": "http://23.224.183.18/api.php/provide/vod/",
             "searchable": 1,
@@ -1024,7 +1046,7 @@
 },
 {
             "key": "乐视",
-            "name": "🌀乐视┃采集",
+            "name": "🌀┣乐视┃采集",
             "type": 1,
             "api": "https://leshiapi.com/api.php/provide/vod/at/json/",
             "searchable": 1,
@@ -1033,7 +1055,7 @@
 },
 {
             "key": "黑木耳资源",
-            "name": "🌀木耳┃采集",
+            "name": "🌀┣木耳┃采集",
             "type": 1,
             "api": "https://heimuer.tv/api.php/provide/vod/",
             "searchable": 1,
@@ -1042,7 +1064,7 @@
 },
 {
             "key": "csp_xml_ikun",
-            "name": "🌀爱坤┃采集",
+            "name": "🌀┣爱坤┃采集",
             "type": 1,
             "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
             "playerType": 2,
@@ -1050,7 +1072,7 @@
 },
 {
             "key": "喵派对",
-            "name": "🌀喵趣┃采集",
+            "name": "🌀┣喵趣┃采集",
             "type": 1,
             "api": "https://www.lezy.lol/api.php/provide/vod/",
             "searchable": 1,
@@ -1058,7 +1080,7 @@
 },
 {
             "key": "华为吧资源",
-            "name": "🌀微吧┃采集",
+            "name": "🌀┣微吧┃采集",
             "type": 1,
             "api": "https://hw8.live/api.php/provide/vod/",
             "searchable": 1,
@@ -1067,7 +1089,7 @@
 },
 {
             "key": "全看影视",
-            "name": "💡全看┃快播",
+            "name": "🌀┣全看┃快播",
             "type": 1,
             "api": "https://wrea.91qkw.cc/api.php/provide/vod/",
             "searchable": 1,
@@ -1075,7 +1097,7 @@
 },
 {
             "key": "墨白影视",
-            "name": "💡墨白┃快播",
+            "name": "🌀┣墨白┃快播",
             "type": 1,
             "api": "https://nm.xxxc137.top/api.php/provide/vod/",
             "searchable": 1,
@@ -1083,7 +1105,7 @@
 },
 {
             "key": "映迷影视",
-            "name": "💡映迷┃快播",
+            "name": "🌀┣映迷┃快播",
             "type": 1,
             "api": "https://www.inmi.app/api.php/provide/vod/",
             "searchable": 1,
@@ -1091,7 +1113,7 @@
 },
 {
             "key": "易看影视",
-            "name": "💡易看┃快播",
+            "name": "🌀┣易看┃快播",
             "type": 1,
             "api": "http://tv.ykzj6.cn/api.php/provide/vod/",
             "searchable": 1,
@@ -1099,7 +1121,7 @@
 },
 {
             "key": "追风影视",
-            "name": "💡追风┃快播",
+            "name": "🌀┣追风┃快播",
             "type": 1,
             "api": "http://www.zfsp.cc/api.php/provide/vod/",
             "searchable": 1,
@@ -1107,7 +1129,7 @@
 },
 {
             "key": "小宝影视",
-            "name": "💡小宝┃快播",
+            "name": "🌀┣小宝┃快播",
             "type": 1,
             "api": "http://www.xiaobao168.com/api.php/provide/vod/",
             "searchable": 1,
@@ -1115,7 +1137,7 @@
 },
 {
             "key": "影猫影视",
-            "name": "💡影猫┃快播",
+            "name": "🌀┣影猫┃快播",
             "type": 1,
             "api": "http://ysm.tkbot.fun/api.php/provide/vod/",
             "searchable": 1,
@@ -1123,7 +1145,7 @@
 },
 {
             "key": "剧狗影视",
-            "name": "💡剧狗┃快播",
+            "name": "🌀┣剧狗┃快播",
             "type": 1,
             "api": "https://www.youmuz.cn/api.php/provide/vod/",
             "searchable": 1,
@@ -1131,7 +1153,7 @@
 },
 {
             "key": "何以影视",
-            "name": "💡何以┃快播",
+            "name": "🌀┣何以┃快播",
             "type": 1,
             "api": "https://www.heyik.cn/api.php/provide/vod/",
             "searchable": 1,
@@ -1139,7 +1161,7 @@
 },
 {
             "key": "奇遇影视",
-            "name": "💡奇遇┃快播",
+            "name": "🌀┣奇遇┃快播",
             "type": 1,
             "api": "http://qy.wangwangwang.xyz/api.php/provide/vod/",
             "searchable": 1,
@@ -1147,7 +1169,7 @@
 },
 {
             "key": "HG影视",
-            "name": "💡皇冠┃快播",
+            "name": "🌀┣皇冠┃快播",
             "type": 1,
             "api": "https://hong.hgyx.vip/api.php/provide/vod/",
             "searchable": 1,
@@ -1155,7 +1177,7 @@
 },
 {
             "key": "BILFUN影视",
-            "name": "💡有趣┃快播",
+            "name": "🌀┣有趣┃快播",
             "type": 1,
             "api": "https://www.bilfun.cc/api.php/provide/vod/",
             "searchable": 1,
