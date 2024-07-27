@@ -1258,6 +1258,7 @@
     "searchable": 1,
     "quickSearch": 0,
     "changeable": 0,
+    "cookie": "http://127.0.0.1:9978/file/XYQTVBox/bili_cookie.txt",
     "ext": "./BiLi.json"
 },
 {
