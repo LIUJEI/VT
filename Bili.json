@@ -1,59 +1,19 @@
 {
-  "classes": [
+"classes": [
 {"type_name": "短剧合集","type_id": "短剧合集"},
-{
-      "type_name": "都市",
-      "type_id": "都市短剧"
-    },
-    {
-      "type_name": "古装",
-      "type_id": "古装短剧"
-    },
-    {
-      "type_name": "言情",
-      "type_id": "言情短剧"
-    },
-    {
-      "type_name": "穿越",
-      "type_id": "穿越短剧"
-    },
-    {
-      "type_name": "神医",
-      "type_id": "神医短剧"
-    },
-    {
-      "type_name": "赘婿",
-      "type_id": "赘婿短剧"
-    },
-    {
-      "type_name": "乘风破浪的婚姻",
-      "type_id": "乘风破浪的婚姻"
-    },
-    {
-      "type_name": "萌宝驾到爹地又求复婚啦",
-      "type_id": "萌宝驾到爹地又求复婚啦"
-    },
-    {
-      "type_name": "末代格格之乱世奇女",
-      "type_id": "末代格格之乱世奇女"
-    },
-    {
-      "type_name": "财阀家的大少爷",
-      "type_id": "财阀家的大少爷"
-    },
-    {
-      "type_name": "大梁败家子",
-      "type_id": "大梁败家子"
-    },
-    {
-      "type_name": "穿越聊斋",
-      "type_id": "穿越聊斋"
-    },
-    {
-      "type_name": "女王陛下",
-      "type_id": "女王陛下"
-    },
-
+{"type_name": "都市","type_id": "都市短剧"},
+{"type_name": "古装","type_id": "古装短剧"},
+{"type_name": "言情","type_id": "言情短剧"},
+{"type_name": "穿越","type_id": "穿越短剧"},
+{"type_name": "神医","type_id": "神医短剧"},
+{"type_name": "赘婿","type_id": "赘婿短剧"},
+{"type_name": "乘风破浪的婚姻","type_id": "乘风破浪的婚姻"},
+{"type_name": "萌宝驾到爹地又求复婚啦","type_id": "萌宝驾到爹地又求复婚啦"},
+{"type_name": "末代格格之乱世奇女","type_id": "末代格格之乱世奇女"},
+{"type_name": "财阀家的大少爷","type_id": "财阀家的大少爷"},
+{"type_name": "大梁败家子","type_id": "大梁败家子"},
+{"type_name": "穿越聊斋","type_id": "穿越聊斋"},
+{"type_name": "女王陛下","type_id": "女王陛下"},
 {"type_name": "电影","type_id": "电影"}, 
 {"type_name": "电视剧","type_id": "电视剧"},
 {"type_name": "4K","type_id": "4K"},
