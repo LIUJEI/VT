@@ -14,7 +14,7 @@
   "sites": [
     {
         "key": "采集E(易看)",
-        "name" : "📛TH┃易看采集【2024/6/21】" ,
+        "name" : "📛TH┃易看采集【2024/08/05】" ,
         "type":1,
         "api":"https://api.yikanapi.com/api.php/provide/vod/",
         "searchable":1,
