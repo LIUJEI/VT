@@ -1,11 +1,18 @@
 {
 
-  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;20d2ee18388ea23295700d9cfb6648c8",
+  "spider": "https://git.acwing.com/-/ide/project/999/tvbox/raw/main/-/JAR/spider.jar;md5;20d2ee18388ea23295700d9cfb6648c8",
   
 
   "warningText":"tv提示:📢接口软件永远免费📢长期维护切勿贩卖",
 
 "sites":[
+{
+    "key": "js-豆瓣",
+    "name": "🎬┣豆瓣┫推荐",
+    "type": 3,
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/douban.js"
+},
 {
     "key":"csp_豆瓣",
     "name":"🎬┣豆瓣┫预告┃",
@@ -13,13 +20,6 @@
     "api":"csp_XBPQ",
     "playerType":2,
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/豆瓣预告.json"
-},
-{
-    "key": "js-豆瓣",
-    "name": "🎬┣豆瓣┫推荐",
-    "type": 3,
-    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/douban.js"
 },
 {
     "key": "毒舌电影",
@@ -129,12 +129,6 @@
     "api": "csp_FengGo"
 },
 {
-    "key": "毛驴影视",
-    "name": "🎆┣毛驴┫影视",
-    "type": 3,
-    "api": "csp_MaoLv"
-},
-{
     "key": "圣城影视",
     "name": "🎆┣圣城┫影视",
     "type": 3,
@@ -216,12 +210,6 @@
     "ext": "https://www.czys.pro/"
 },
 {
-    "key": "利播影视",
-    "name": "🎆┣立播┫影视",
-    "type": 3,
-    "api": "csp_Wexlibhd"
-},
-{
     "key": "在线之家",
     "name": "🎆┣在线┫之家",
     "type": 3,
@@ -232,18 +220,6 @@
     "name": "🎆┣达龟┫影视",
     "type": 3,
     "api": "csp_Dadag"
-},
-{
-    "key":"笙歌┃影视",
-    "name":"🎆┣笙歌┫影视",
-    "type":3,
-    "api":"csp_AppYY"
-},
-{
-    "key":"愉悦影视",
-    "name":"🎆┣愉悦┫影视",
-    "type":3,
-    "api":"csp_Wexyuyueys"
 },
 {
     "key": "低端影视",
@@ -300,6 +276,20 @@
 	"ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/4kvm.json"
 },
 {
+	"key": "csp_XBPQ_茶杯狐",
+	"name": "🎆┣茶杯┫聚合",
+	"type": 3,
+	"api": "csp_XBPQ",
+	"ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/茶杯.json"
+},
+{
+	"key": "hipy_js_央视大全",
+	"name": "🎆┣央视┫大全",
+	"type": 3,
+	"api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
+	"ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/大全央视.js"
+},		
+{
     "key": "不卡影视",
     "name": "🎆┣不卡┫APP",
     "type": 3,
@@ -315,39 +305,11 @@
     "ext": "CMy4wLjF8aHR0cDovLzEyMS42Mi4yMy4yMzI6MTk5N3xiMTU4NDBkYXwyNHw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnwwOWVlMzUxNmMxY2E4ZWQx"
 },
 {
-    "key": "专线",
-    "name": "🚝┣专线┫秒播",
-    "type": 3,
-    "api": "csp_Zx4k",
-    "jar": "./JAR/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b"
-},
-{
-    "key": "Jpys",
-    "name": "🐭┣金牌┫秒播",
-    "type": 3,
-    "jar": "./JAR/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b",
-    "api": "csp_Jpys"
-},
-{
-    "key": "文采",
-    "name": "💮┣文采┫秒播",
-    "type": 3,
-    "jar": "./JAR/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b",
-    "api": "csp_Jpys"
-},
-{
 	"key": "csp_pptv",
-	"name": "🫧泡泡┃影视",
+	"name": "💮┣泡泡┫影视",
 	"type": 3,
 	"api": "csp_Pptv",
 	"jar": "./JAR/OYWCN.txt;md5;89edf4358bcd12ad16d35bb8e3df19c3"
-},
-{
-	"key": "huohuo",
-	"name": "💥火火┃独家",
-	"type": 3,
-	"api": "csp_SaoHuo",
-    "jar": "./JAR/0806xm.jar;md5;8f613ce3a83ee9428695d97a84c8bd48"
 },
 {
 	"key": "云播",
@@ -504,6 +466,20 @@
     "导演": "导演:&&</div>",
     "主演": "主演:&&</div>",
     "简介": "<p>&&</p>"}
+},
+{
+    "key": "csp_XYQHiker_爱你短剧",
+    "name":"📛┣爱你┫短剧",
+    "type":3,
+    "api":"csp_XYQHiker",
+    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/Lib/爱你短剧.json"
+},
+{
+    "key": "csp_XYQHiker_河马短剧",
+    "name":"📛┣河马┫短剧",
+    "type":3,
+    "api":"csp_XYQHiker",
+    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/Lib/河马短剧.json"
 },		
 {
     "key":"dr_卫士",
@@ -547,19 +523,13 @@
     "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/yKtv.js"
 },
-{"key": "酷影","name": "🥥┣酷影┫4Kp","type": 3,"api": "csp_AppYsV2","ext": "http://122.228.85.203:3366/api.php/app/"},
-{
-    "key": "测压",
-    "name": "🌟摸鱼┃解析",
-    "type": 3,
-    "api": "csp_AppYsV2",
-    "ext": " http://4k.摸鱼儿.com/api.php/app/"
-},
+{"key": "夜图","name": "🏧┣宝盒┫4KK","type": 3,"api": "csp_AppYsV2","ext": " http://cms-yt.lyyytv.cn/api.php/app/"},
+{"key": "君君","name": "🏧┣君君┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://122.228.85.203:1000/api.php/app/"},
+{"key": "测压","name": "🏧┣摸鱼┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://4k.摸鱼儿.com/api.php/app/"},
 {"key": "感觉","name": "🏧┣新觉┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://43.248.100.147:9891/api.php/app/"},
 {"key": "奴娜","name": "🏧┣奴娜┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.nntv.in/api.php/v1.vod"},
 {"key": "沐沐","name": "🏧┣沐沐┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://nnystv.cn/api.php/app/"},
 {"key": "龙门","name": "🏧┣龙门┫APP","type": 3,"api": "csp_AppYsV2","ext": "http://movie.iqinu.com/api.php/v1.vod"},
-{"key": "星球","name": "🏧┣奈飞┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.netfly.tv/api.php/app/"},
 {"key": "鸭飞","name": "🏧┣鸭飞┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://yanetflix.me/api.php/app/"},
 {"key": "剧兔","name": "🏧┣追剧┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.zjtu.one/api.php/app/"},
 {"key": "河狸","name": "🏧┣河狸┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.heli888.cc/api.php/app/"},
@@ -589,7 +559,7 @@
 },
 {
     "key": "三六资源",
-    "name": "🎗┣琉芸┫资源",
+    "name": "🎗┣三六┫资源",
     "type": 1,
     "api": "https://360zy.com/api.php/provide/vod",
     "playUrl": "json:http://110.42.3.99:880/rmm.php/?url=",
@@ -774,7 +744,7 @@
 },
 {
   "key": "bb",
-  "name": "🇨🇳┣☪琉✿芸┫【更新时间:08.08】",
+  "name": "🇨🇳┣☪琉✿芸┫【更新时间:08.23】",
   "type": 3,
   "api": "csp_XPath",
   "searchable": 0,
@@ -786,33 +756,7 @@
     
 {"name":"🌐智能聚合","type":3,"url":"Web"},   
 {"name":"🌐自动聚合","type":3,"url":"Demo"},
-{
-      "name": "摸鱼测压",
-      "type": 1,
-      "url": "http://vipjx.xn--v4q818bf34b.com/moyu64.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "rx",
-          "ltnb",
-          "bilibili",
-          "1905",
-          "xigua"
-        ]
-      }
-},
+
 {
     "name": "龙龙专线㊎",
     "type": "1",
@@ -831,6 +775,14 @@
 	"name": "速讯Ⓢ蓝光",
 	"type": 1,
 	"url": "https://cdn.suxun.site/api/?key=HRTgKIxjsFBAhDcrge&url=",
+	"ext": {
+	"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "tnmb", "seven", "bilibili", "1905"],
+	"header": {"User-Agent": "okhttp/4.9.1"}}
+},
+{
+	"name": "爱优腾4K",
+	"type": 1,
+	"url": "http://www.mpanso.com/woaini.php?url=",
 	"ext": {
 	"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "tnmb", "seven", "bilibili", "1905"],
 	"header": {"User-Agent": "okhttp/4.9.1"}}
