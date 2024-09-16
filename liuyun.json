@@ -204,7 +204,34 @@
     "主演": "主演:&&</div>",
     "简介": "<p>&&</p>"}
 },
-
+{
+    "key": "hipy_js_荐片[优]",
+    "name": "🎆┣影视┫荐片",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/荐片[优].js"
+},
+{
+    "key": "hipy_js_泡泡影院",
+    "name": "🎆┣泡泡┫影院",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/泡泡影院.js"
+},
+{
+    "key": "hipy_js_闪雷电",
+    "name": "🎆┣雷电┫影视",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/闪雷电.js"
+},
+{
+    "key": "hipy_js_烧火影视[优]",
+    "name": "🎆┣烧火┫影视",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/烧火影视[优].js"
+},
 {
     "key": "忍者影视",
     "name": "🎆┣忍者┫APP",
@@ -277,24 +304,6 @@
     "filterable": 1
 },
 {
-    "key": "比特影视",
-    "name": "🎆┣比特┫影视",
-    "type": 3,
-    "api": "csp_Bttwo",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-},
-{
-    "key": "FreeOK",
-    "name": "️️🎆┣芸芸┫影视",
-    "type": 3,
-    "api": "csp_FreeOK",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-},
-{
     "key": "视频库",
     "name": "🎆┣视频┫影库",
     "type": 3,
@@ -339,15 +348,6 @@
     "name": "🎆┣云播┫影视",
     "type": 3,
     "api": "csp_Tvyb",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/lib/08015.jar"
-},
-{
-    "key": "QIYIU",
-    "name": "🎆┣奇优┫影",
-    "type": 3,
-    "changeable": 0,
-    "api": "csp_Qiyou",
-    "playerType": "1",
     "jar": "https://gitee.com/lyun_1_0/tb/raw/master/lib/08015.jar"
 },
 {
@@ -418,6 +418,114 @@
     "type":3,
     "api":"csp_Jiaozi",
     "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"
+},
+{
+    "key": "hipy_js_时光影院",
+    "name": "🎆┣时光┫影院",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/时光影院.js"
+},
+{
+    "key": "hipy_js_天启",
+    "name": "🎆┣天启┫影视",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/天启.js"
+},
+{
+    "key": "hipy_js_天天影视",
+    "name": "🎆┣天天┫影视",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/天天影视.js"
+},
+{
+    "key": "hipy_js_影视工厂",
+    "name": "🎆┣影视┫工厂",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/影视工厂.js"
+},
+{
+    "key": "hipy_js_影视控",
+    "name": "🎆┣影视┫控古",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/影视控.js"
+},
+{
+    "key": "hipy_js_好趣网[播]",
+    "name": "🎆┣好趣┫网播",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/好趣网[播].js"
+},
+{
+    "key": "hipy_js_文才2[资]",
+    "name": "🎆┣文才┫影视",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/文才2[资].js"
+},
+{
+    "key": "hipy_js_无忧影视",
+    "name": "🎆┣无忧┫影视",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/无忧影视.js"
+},
+{
+    "key": "hipy_js_西瓜影院",
+    "name": "🎆┣西瓜┫影院",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "order_num": 0,
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/西瓜影院.js"
+},
+{
+    "key": "hipy_js_白嫖者联盟",
+    "name": "🎆┣白嫖┫影视",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/白嫖者联盟.js"
+},
+{
+    "key": "hipy_js_一起看",
+    "name": "🎆┣起看┫影视",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/一起看.js"
+},
+{
+    "key": "hipy_js_cally66",
+    "name": "🎆┣芸芸┫影视(t1)",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/cally66.js"
+},
+{
+    "key": "hipy_js_GO影视",
+    "name": "🎆┣芸芸┫影视(t2)",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/GO影视.js"
+},
+{
+    "key": "hipy_js_iFun",
+    "name": "🎆┣芸芸┫影视(t3)",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/iFun.js"
+},
+{
+    "key": "FreeOK",
+    "name": "️️🎆┣芸芸┫影视(t4)",
+    "type": 3,
+    "api": "csp_FreeOK",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
 },
 {
     "key": "New6v",
@@ -694,6 +802,23 @@
     "ext":"https://xn--tkh-mf3g9f.v.nxog.top/m/Bilibili/小灯塔国学.json"
 },
 {
+    "key":"戏曲",
+    "name":"🅱️戏曲精选",
+    "type":3,
+    "api":"csp_Bili",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":1,
+    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Blixq.json"
+},
+{
+    "key": "hipy_js_一曲肝肠断",
+    "name": "🅱️一曲肝肠断",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "http://mdxgh.tpddns.cn:9999/dzlib/一曲肝肠断.js"
+},
+{
     "key": "ConfigCenter",
     "name": "🇨🇳┣☪全✿局┫【更新时间:2024】",
     "type": 3,
@@ -932,13 +1057,30 @@
     {"name": "Quad9","url": "https://dns.quad9.net/dns-quer","ips": ["9.9.9.9","149.112.112.112"]}],
 
 "lives": [{
-    "name": "live",
-    "url": "https://pan.shangui.cc/f/10bzTw/v%EF%BC%88%E5%8A%A0%E5%AF%86%E7%A0%81%EF%BC%891.txt",
-    "type": 0,
-    "playerType": 1,
-    "ua": "okhttp/3.12.13",
-    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-    "logo": "https://epg.112114.xyz/logo/{name}.png"}],
+            "name": "直播1",
+            "type": 0,
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt",
+            "playerType": 1,
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+        },
+        {
+            "name": "直播2",
+            "type": 0,
+            "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+            "playerType": 1
+        },
+        {
+            "name": "直播3",
+            "type": 0,
+            "url": "https://tv.iill.top/m3u/Gather",
+            "playerType": 1
+        },
+        {
+            "name": "直播4",
+            "type": 0,
+            "url": "http://mmitv.top/pltv/merization.php?id=list&user=t0k1b5&token=17af41bb&text=diypbox",
+            "playerType": 1
+        }],
 
 "flags": [
         "youku",
@@ -1010,3 +1152,4 @@
     {"category": 1,"name": "dns_cache_timeout","value": "600000000"}]}],
 
 "ads": ["static-mozai.4gtv.tv"]}
+
