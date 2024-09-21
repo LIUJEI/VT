@@ -1,5 +1,5 @@
 {
-  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
+  "spider": "./VS/MO.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "warningText":"tv提示:📢接口软件永远免费📢长期维护切勿贩卖",
 
@@ -423,18 +423,18 @@
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/yKtv.js"
 },
 {
-	"key": "js_荐片",
-	"name": "🆚┣荐片┫影视",
-	"type": 3,
-	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-	"ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/荐片[优].js"
+    "key": "js_荐片",
+    "name": "🆚┣荐片┫影视",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext":"./荐片[优].js"
 },	
 {
-	"key": "js_nangua",
-	"name": "🆚┣南瓜┫秒播",
-	"type": 3,
-	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/南瓜影视[优].js"
+    "key": "js_nangua",
+    "name": "🆚┣南瓜┫秒播",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "./南瓜影视[优].js"
 },
 {
     "key": "hipy_js_闪雷电",
@@ -465,46 +465,46 @@
     "ext": "http://www.meowtv.cn/js/meow.php?file=xcys"
 },
 {
-	"key": "js_Lib",
-	"name": "🆚┣利奥┫影视",
-	"type": 3,
-	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/LIBVIO[优].js"
+    "key": "js_Lib",
+    "name": "🆚┣利奥┫影视",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "./LIBVIO[优].js"
 },
 {
-	"key": "js_Czsapp",
-	"name": "🆚┣厂长┫影视",
-	"type": 3,
-	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/厂长资源(可搜索).js"
+    "key": "js_Czsapp",
+    "name": "🆚┣厂长┫影视",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "./厂长资源(可搜索).js"
 },
 {
-	"key": "js_ddys",
-	"name": "🆚┣低端┫影视",
-	"type": 3,
-	"api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-	"ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/低端.js"
+    "key": "js_ddys",
+    "name": "🆚┣低端┫影视",
+    "type": 3,
+    "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ext": "./低端.js"
 },				
 {
     "key":"drpy_js_看了么",
     "name":"🆚┣看么┫影视",
     "type":3,
     "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-    "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/看了么.js"
+    "ext":"./看了么.js"
 },
 {
     "key":"drpy_js_量子影视",
     "name":"🆚┣量子┫影视",
     "type":3,
     "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-    "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/量子影视.js"
+    "ext":"./量子影视.js"
 },
 {
     "key":"drpy_js_567电影院",
     "name":"🆚┣电影┫院线",
     "type":3,
     "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
-    "ext":"https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/567电影院.js"
+    "ext":"./567电影院.js"
 },
 {
 	"key": "hipy_js_8号影院",
