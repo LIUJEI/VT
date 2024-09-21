@@ -622,28 +622,28 @@
     "key": "hipy_js_旋风视频",
     "name": "🆚┣旋风┫视频",
     "type": 3,
-    "api": "./VS/drpy2.min.js",
+    "api": "./drpy2.min.js",
     "ext": "./旋风视频.js"
 },
 {
     "key": "hipy_js_一起看",
     "name": "🆚┣起看┫影视",
     "type": 3,
-    "api": "./VS/drpy2.min.js",
+    "api": "./drpy2.min.js",
     "ext": "./一起看.js"
 },
 {
     "key": "hipy_js_影视大全",
     "name": "🆚┣影视┫大全",
     "type": 3,
-    "api": "./VS/drpy2.min.js",
+    "api": "./drpy2.min.js",
     "ext": "./影视大全.js"
 },
 {
     "key": "hipy_js_悠悠影视",
     "name": "🆚┣悠悠┫影视",
     "type": 3,
-    "api": "./VS/drpy2.min.js",
+    "api": "./drpy2.min.js",
     "ext": "./悠悠影视.js"
 },
 {"key": "酷影","name": "🏧┣酷影┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.tvkuys.xyz/api.php/app/"},
