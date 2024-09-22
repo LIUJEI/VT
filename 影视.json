@@ -384,56 +384,56 @@
     "key":"dr_卫士",
     "name":"🅾️主力【官方】",
     "type":3,
-    "api": "./drpy2.min.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/360.js"
 },
 {
     "key":"dr_腾迅",
     "name":"🐧腾讯【官方】",
     "type":3,
-    "api": "./drpy2.min.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/QQtv.js"
 },
 {
     "key":"dr_芒果",
     "name":"🥭芒果【官方】",
     "type":3,
-    "api": "./drpy2.min.js",
+    "api":"https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext":"https://git.acwing.com/999/tvbox/-/raw/main/TV/MGtv.js"
 },
 {
     "key":"dr_奇异",
     "name":"🥝爱奇艺【官方】",
     "type":3,
-    "api": "./drpy2.min.js",
+    "api":"https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext":"https://git.acwing.com/999/tvbox/-/raw/main/TV/AQItv.js"
 },
 {
     "key":"dr_搜狗",
     "name":"🦊搜狗【官方】",
     "type":3,
-    "api": "./drpy2.min.js",
+    "api":"https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext":"https://git.acwing.com/999/tvbox/-/raw/main/TV/SGtv.js"
 },
 {
     "key":"dr_优酷",
     "name":"🏠优酷【官方】",
     "type":3,
-    "api": "./drpy2.min.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/yKtv.js"
 },
 {
     "key": "js_荐片",
     "name": "🆚┣荐片┫影视",
     "type": 3,
-    "api": "./drpy2.min.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext":"./荐片[优].js"
 },	
 {
     "key": "js_nangua",
     "name": "🆚┣南瓜┫秒播",
     "type": 3,
-    "api": "./drpy2.min.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext": "./南瓜影视[优].js"
 },
 {
@@ -447,7 +447,7 @@
     "key": "mays",
     "name": "🆚┣米爱┫影视",
     "type": 3,
-    "api": "./drpy2.min.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext": "http://www.meowtv.cn/js/meow.php?file=mays"
 },
 {
@@ -468,182 +468,182 @@
     "key": "js_Lib",
     "name": "🆚┣利奥┫影视",
     "type": 3,
-    "api": "./drpy2.min.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext": "./LIBVIO[优].js"
 },
 {
     "key": "js_Czsapp",
     "name": "🆚┣厂长┫影视",
     "type": 3,
-    "api": "./drpy2.min.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext": "./厂长资源(可搜索).js"
 },
 {
     "key": "js_ddys",
     "name": "🆚┣低端┫影视",
     "type": 3,
-    "api": "./drpy2.min.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext": "./低端.js"
 },				
 {
     "key":"drpy_js_看了么",
     "name":"🆚┣看么┫影视",
     "type":3,
-    "api": "./drpy2.min.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext":"./看了么.js"
 },
 {
     "key":"drpy_js_量子影视",
     "name":"🆚┣量子┫影视",
     "type":3,
-    "api": "./drpy2.min.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext":"./量子影视.js"
 },
 {
     "key":"drpy_js_567电影院",
     "name":"🆚┣电影┫院线",
     "type":3,
-    "api": "./drpy2.min.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext":"./567电影院.js"
 },
 {
     "key": "hipy_js_8号影院",
     "name": "🆚┣捌号┫影院",
     "type": 3,
-    "api": "./drpy2.min.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext": "./8号影院.js"
 },
 {
     "key": "hipy_js_爱优影视[自动]",
     "name": "🆚┣爱优┫影视",
     "type": 3,
-   "api": "./drpy2.min.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext": "./爱优影视.js"
 },
 {
     "key": "hipy_js_白嫖者联盟",
     "name": "🆚┣白嫖┫联盟",
     "type": 3,
-    "api": "./drpy2.min.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext": "./白嫖者联盟.js"
 },
 {
     "key": "hipy_js_宝片视频",
     "name": "🆚┣宝片┫视频",
     "type": 3,
-    "api": "./drpy2.min.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext": "./宝片视频.js"
 },
 {
     "key": "hipy_js_北川影视",
     "name": "🆚┣北川┫影视",
     "type": 3,
-    "api": "./drpy2.min.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext": "./北川影视.js"
 },
 {
     "key": "hipy_js_畅梦影视[优]",
     "name": "🆚┣畅梦┫影视",
     "type": 3,
-    "api": "./drpy2.min.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext": "./畅梦影视[优].js"
 },
 {
     "key": "hipy_js_刺猬影视",
     "name": "🆚┣刺猬┫影视",
     "type": 3,
-    "api": "./drpy2.min.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext": "./刺猬影视.js"
 },
 {
     "key": "hipy_js_冠建影视",
     "name": "🆚┣冠建┫影视",
     "type": 3,
-    "api": "./drpy2.min.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext": "./冠建影视.js"
 },
 {
     "key": "hipy_js_魔方影视",
     "name": "🆚┣魔方┫影视",
     "type": 3,
-    "api": "./drpy2.min.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext": "./魔方影视.js"
 },
 {
     "key": "hipy_js_暖光影视",
     "name": "🆚┣暖光┫影视",
     "type": 3,
-    "api": "./drpy2.min.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext": "./暖光影视.js"
 },
 {
     "key": "hipy_js_素白白[优]",
     "name": "🆚┣素白┫影视",
     "type": 3,
-    "api": "./drpy2.min.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext": "./素白白[优].js"
 },
 {
     "key": "hipy_js_文才2[资]",
     "name": "🆚┣文才┫影视",
     "type": 3,
-    "api": "./drpy2.min.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext": "./文才2[资].js"
 },
 {
     "key": "hipy_js_无忧影视",
     "name": "🆚┣无忧┫影视",
     "type": 3,
-    "api": "./drpy2.min.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext": "./无忧影视.js"
 },
 {
     "key": "hipy_js_西瓜影院",
     "name": "🆚┣西瓜┫影院",
     "type": 3,
-    "api": "./drpy2.min.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext": "./西瓜影院.js"
 },
 {
     "key": "hipy_js_小鱼影视",
     "name": "🆚┣小鱼┫影视",
     "type": 3,
-    "api": "./drpy2.min.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext": "./小鱼影视.js"
 },
 {
     "key": "hipy_js_星空影院",
     "name": "🆚┣星空┫影院",
     "type": 3,
-    "api": "./drpy2.min.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext": "./星空影院.js"
 },
 {
     "key": "hipy_js_旋风视频",
     "name": "🆚┣旋风┫视频",
     "type": 3,
-    "api": "./drpy2.min.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext": "./旋风视频.js"
 },
 {
     "key": "hipy_js_一起看",
     "name": "🆚┣起看┫影视",
     "type": 3,
-    "api": "./drpy2.min.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext": "./一起看.js"
 },
 {
     "key": "hipy_js_影视大全",
     "name": "🆚┣影视┫大全",
     "type": 3,
-    "api": "./drpy2.min.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext": "./影视大全.js"
 },
 {
     "key": "hipy_js_悠悠影视",
     "name": "🆚┣悠悠┫影视",
     "type": 3,
-    "api": "./drpy2.min.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
     "ext": "./悠悠影视.js"
 },
 {"key": "酷影","name": "🏧┣酷影┫APP","type": 3,"api": "csp_AppYsV2","ext": "https://www.tvkuys.xyz/api.php/app/"},
