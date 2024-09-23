@@ -6,21 +6,21 @@
 "sites":[
 {
     "key": "豆瓣",
-    "name": "豆瓣｜推荐",
+    "name": "🎬┣豆瓣┫推荐┃",
     "type": 3,
     "api": "csp_Douban",
     "searchable": 0
 },
 {
     "key": "预告",
-    "name": "豆瓣｜预告",
+    "name": "🎬┣豆瓣┫预告┃",
     "type": 3,
     "api": "csp_YGP",
     "searchable": 0
 },
 {
     "key": "在线短剧",
-    "name": "📛┣在线┫短剧",
+    "name": "📛在线®短剧",
     "type": 3,
     "api": "csp_Duanju",
     "searchable": 1,
@@ -31,7 +31,7 @@
 },
 {
     "key": "无忧短剧",
-    "name": "📛┣无忧┫短剧",
+    "name": "📛无忧®短剧",
     "type": 3,
     "api": "csp_Duanj",
     "searchable": 1,
@@ -42,35 +42,35 @@
 },
 {
     "key": "hipy_js_短剧TV网",
-    "name": "📛┣TV网┫短剧",
+    "name": "📛TV网®短剧",
     "type": 3,
     "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/短剧TV网.js"
 },
 {
     "key": "hipy_js_短剧天堂",
-    "name": "📛┣天堂┫短剧",
+    "name": "📛天堂®短剧",
     "type": 3,
     "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/短剧天堂.js"
 },
 {
     "key": "csp_XYQHiker_爱你短剧",
-    "name":"📛┣爱你┫短剧",
+    "name":"📛爱你®短剧",
     "type":3,
     "api":"csp_XYQHiker",
     "ext":"https://git.acwing.com/999/tvbox/-/raw/main/Lib/爱你短剧.json"
 },
 {
     "key": "csp_XYQHiker_河马短剧",
-    "name":"📛┣河马┫短剧",
+    "name":"📛河马®短剧",
     "type":3,
     "api":"csp_XYQHiker",
     "ext":"https://git.acwing.com/999/tvbox/-/raw/main/Lib/河马短剧.json"
 },
 {
     "key": "短剧屋",
-    "name": "📛┣剧屋┫短剧",
+    "name": "📛剧屋®短剧",
     "type": 3,
     "api": "csp_XYQHiker",
     "searchable": 1,
@@ -80,7 +80,7 @@
 },
 {
     "key":"短剧吧",
-    "name":"📛┣吧网┫短剧",
+    "name":"📛吧网®短剧",
     "type":3,
     "api":"csp_XBPQ",   
     "ext":{
@@ -90,7 +90,7 @@
 },
 {
     "key":"短剧网",
-    "name":"📛┣网香┫短剧",
+    "name":"📛网香®短剧",
     "type":3,
     "api":"csp_XBPQ",  
     "ext":{
@@ -100,7 +100,7 @@
 },
 {
     "key": "短剧分享",
-    "name": "📛┣分享┫短剧",
+    "name": "📛分享®短剧",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
@@ -124,7 +124,7 @@
 },
 {
     "key": "duanju001",
-    "name": "📛┣爽网┫短剧",
+    "name": "📛爽网®短剧",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
@@ -139,7 +139,7 @@
 },
 {
     "key": "你好帅",
-    "name": "📛┣好帅┫短剧",
+    "name": "📛好帅®短剧",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
@@ -149,7 +149,7 @@
 },
 {
     "key":"短剧tv",
-    "name":"🎆┣抖音┫短剧",
+    "name":"🎆抖音®短剧",
     "type":3,
     "api":"csp_XBPQ",
     "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;fcc4f15b9364f03772301b23033d0812",
@@ -165,7 +165,7 @@
 },
 {
     "key":" 一起看",
-    "name":"🎆┣起看┫短剧",
+    "name":"🎆起看®短剧",
     "type":3,
     "api":"csp_XBPQ",
     "searchable":1,
