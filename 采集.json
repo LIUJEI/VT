@@ -938,7 +938,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
-  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
+  "spider": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0924.jar;md5;308dabe9c096459415912ff76cd06ed1",
   //"spider": "http://m1839732.cf.caoni.ru/1/meow.php;md5;A413D6A6A5378A02256F703CB6C530AB",
   "wallpaper": "http://tool.teyonds.com/api",
   "doh": [
