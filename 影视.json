@@ -13,11 +13,11 @@
 },
 {
     "key":"csp_豆瓣",
-    "name":"🎬┣豆瓣┫预告",
+    "name":"🎬┣豆瓣┫电影",
     "type":3,
     "api":"csp_XBPQ",
     "ua": "okhttp/10.04",
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/豆瓣预告.json"
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/03影院.json"
 },
 {
     "key": "hipy_js_tpian",
