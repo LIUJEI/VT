@@ -173,6 +173,7 @@
     "name": "♨️┣金牌┫秒播",
     "type": 3,
     "api": "csp_Jpys",
+    "ua": "okhttp/10.04",
     "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90"
 },
 {
@@ -189,7 +190,7 @@
     "type": 3,
     "api": "csp_Libvio",
     "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90",
-    "changeable": 1,
+    "ua": "okhttp/10.04",
     "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","from": "4k|auto"}
 },
 {
@@ -197,7 +198,7 @@
     "name": "♨️┣糯米┫秒播",
     "type": 3,
     "api": "csp_Nmyswv",
-    "timeout": 15,
+    "ua": "okhttp/10.04",
     "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/0927fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90"
 },
 {
@@ -221,6 +222,7 @@
     "name": "♨️┣小米┫影视",
     "type": 3,
     "api": "csp_Jpyy",
+    "ua":  "okhttp/10.04",
     "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
 },
 {
@@ -228,6 +230,7 @@
     "name": "♨️┣云播┫影视",
     "type": 3,
     "api": "csp_Tvyb",
+    "ua":  "okhttp/10.04",
     "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
 },
 {
@@ -235,6 +238,7 @@
     "name": "♨️┣奇优┫影视",
     "type": 3,
     "api": "csp_Qiyou",
+    "ua":  "okhttp/10.04",
     "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
 },
 {
@@ -242,6 +246,7 @@
     "name": "♨️┣骚火┫影视",
     "type": 3,
     "api": "csp_SaoHuo",
+    "ua":  "okhttp/10.04",
     "jar": "https://git.acwing.com/999/tvbox/-/raw/main/JAR/mi.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
 },
 {
@@ -257,7 +262,7 @@
     "name": "♨️┣柠檬┫App",
     "type": 3,
     "api": "csp_Nmvod",
-    "playerType": 1,
+    "ua":  "okhttp/10.04",
     "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ==",
     "jar": "http://cdn.qiaoji8.com/fix24914.jar;md5;df8acabafdc6aa94c11ecb3da25188e1"
 },
@@ -266,7 +271,7 @@
     "name": "♨️┣蚂蚁┫App",
     "type": 3,
     "api": "csp_Mayiys",
-    "playerType": 1,
+    "ua":  "okhttp/10.04",
     "ext": "jaHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L21heWkudHh0",
     "jar": "http://cdn.qiaoji8.com/fix24914.jar;md5;df8acabafdc6aa94c11ecb3da25188e1"
 },
@@ -276,6 +281,7 @@
     "name":"🅾️┣主力┫官方",
     "type":3,
     "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
+    "ua": "okhttp/10.04",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/360.js"
 },
 {
@@ -283,6 +289,7 @@
     "name":"🐧┣腾讯┫官方",
     "type":3,
     "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ua": "okhttp/10.04",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/QQtv.js"
 },
 {
@@ -290,6 +297,7 @@
     "name":"🥭┣芒果┫官方",
     "type":3,
     "api":"https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
+    "ua": "okhttp/10.04",
     "ext":"https://git.acwing.com/999/tvbox/-/raw/main/TV/MGtv.js"
 },
 {
@@ -297,6 +305,7 @@
     "name":"🥝┣奇艺┫官方",
     "type":3,
     "api":"https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
+    "ua": "okhttp/10.04",
     "ext":"https://git.acwing.com/999/tvbox/-/raw/main/TV/AQItv.js"
 },
 {
@@ -304,6 +313,7 @@
     "name":"🦊┣搜狗┫官方",
     "type":3,
     "api":"https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
+    "ua": "okhttp/10.04",
     "ext":"https://git.acwing.com/999/tvbox/-/raw/main/TV/SGtv.js"
 },
 {
@@ -311,6 +321,7 @@
     "name":"🏠┣优酷┫官方",
     "type":3,
     "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
+    "ua":  "okhttp/10.04",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/yKtv.js"
 },
 
@@ -319,6 +330,7 @@
     "name":"🆚┣极狐┫影院",
     "type":3,
     "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ua":  "okhttp/10.04",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/北极狐.js"
 },
 {
@@ -326,6 +338,7 @@
     "name": "🆚┣闪电┫影视",
     "type": 3,
     "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ua":  "okhttp/10.04",
     "ext": "http://mdxgh.tpddns.cn:9999/dzlib/闪雷电.js"
 },				
 {
@@ -333,6 +346,7 @@
    "name": "🆚┣起看┫影视",
    "type": 3,
    "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
+   "ua":  "okhttp/10.04",
    "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/一起看.js"
 },
 {
@@ -340,6 +354,7 @@
     "name": "🆚┣西瓜┫影院",
     "type": 3,
     "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+    "ua":  "okhttp/10.04",
     "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/西瓜影院.js"
 },
 {
@@ -347,14 +362,15 @@
     "name": "🆚┣白嫖┫联盟",
     "type": 3,
     "api": "http://mdxgh.tpddns.cn:9999/dzlib/drpy2.min.js",
+    "ua":  "okhttp/10.04",
     "ext": "https://github.moeyy.xyz/https://github.com/LIUJEI/VT/raw/main/白嫖者联盟.js"
 },
 {
 	"key": "hipy_js_fxztg",
 	"name": "🆚┣糖果┫影视",
 	"type": 3,
-	"ua": "okhttp/3.15",
-    "api":"https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
+    "api": "https://git.acwing.com/999/tvbox/-/raw/main/TV/dy2.js",
+    "ua":  "okhttp/10.04",
 	"ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/糖果影院.js"
 },
 {
@@ -362,7 +378,7 @@
     "name": "💮┣南坊┫影视",
     "type": 3,
 	"api": "csp_XBPQ",
-    "ua": "okhttp/10.04",
+    "ua":  "okhttp/10.04",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/南坊.json"
 },
 {
@@ -370,7 +386,7 @@
     "name": "💮┣七新┫影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "ua": "okhttp/10.04",
+    "ua":  "okhttp/10.04",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/七新影视.json"
 },
 {
@@ -378,7 +394,7 @@
     "name": "💮┣茶杯┫聚合",
     "type": 3,
     "api": "csp_XBPQ",
-    "ua": "okhttp/10.04",
+    "ua":  "okhttp/10.04",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/茶杯.json"
 },
 {
@@ -386,7 +402,7 @@
     "name": "💮┣优优┫影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "ua": "okhttp/10.04",
+    "ua":  "okhttp/10.04",
     "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/UU影视.json"
 },
 {
@@ -394,7 +410,7 @@
 	"name": "💮┣酒吧┫影视",
 	"type": 3,
 	"api": "csp_XBPQ",
-    "ua": "okhttp/10.04",
+    "ua":  "okhttp/10.04",
 	"ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/98影视.json"
 },
 {
@@ -402,13 +418,14 @@
 	"name": "💮┣黑狐┫影视",
 	"type": 3,
 	"api": "csp_XBPQ",
-    "ua": "okhttp/10.04",
+    "ua":  "okhttp/10.04",
 	"ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/黑狐影视.json"
 },
 {
     "key": "影视大全",
     "name": "💮┣影视┫大全",
     "type": 3,
+    "ua": "okhttp/10.04",
     "api": "csp_XBPQ",
     "ext": {
     "分类url": "https://www.ysdq.me/vodshow/{cateId}-{class}-{by}-{area}-{lang}--{catePg}-{year}.html",
@@ -434,6 +451,7 @@
     "key": "小鸭影音",
     "name": "💮┣小鸭┫影音",
     "type": 3,
+    "ua": "okhttp/10.04",
     "api": "csp_XBPQ",
     "ext": {
     "简介":"琉芸剧情介绍: +stui-content__desc col-pd clearfix\">&&</div>",
@@ -444,6 +462,7 @@
     "key":"csp_adyy",
     "name":"💮┣爱碟┫影院",
     "type": 3,
+    "ua": "okhttp/10.04",
     "api": "csp_XBPQ",
     "ext": {
     "影片地区": "琉芸制作",
@@ -456,6 +475,7 @@
     "key":"csp_adyy",
     "name":"💮┣爱碟┫影院",
     "type": 3,
+    "ua": "okhttp/10.04",
     "api": "csp_XBPQ",
     "ext": {
     "影片地区": "琉芸制作",
@@ -471,6 +491,7 @@
     "type":3,
     "api":"csp_AppSK",
     "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip",
+    "ua": "okhttp/10.04",
     "ext": "FbjPcVZY48PN/RIZ5QqOrspjctNYHd8MCHVY/fi7wUpUQNqG/jfU2giXr76/DC+8eHSS1HMynmg3WiNrBtVgfEJASNqQ2hTVLzJC3SoblKA+CPO6c3h2LRrhcHl6z5b2unGGON8hEYJ29EtB6FH/E01cML7v6RxWYZMJfmBRNw=="
 },
 {
@@ -479,6 +500,7 @@
     "type":3,
     "api":"csp_AppSK",
     "ext": "FbjPcVZY48PN/RIZ5UWFro1kcspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2B7ULz5M1CsKjLdyU6L2fWAhdkHsMHY7zpKguHeHM9N9Hodw+0VE7gKlHRpfZ+PrvhFHLg==",
+    "ua": "okhttp/10.04",
     "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip"
 },  
 {
