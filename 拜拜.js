@@ -1,5 +1,5 @@
 {
-  "站名": "素白白影视",
+  "站名": "白白影视",
   "主页url": "https://www.subaibaiys.com",
   "分类": "电影&电视剧&热门电影&国产剧&欧美剧&韩剧&高分电影&动漫电影&香港经典电影&动漫剧",
   "分类值": "new-movie&tv-drama&hot-month&domestic-drama&american-drama&korean-drama&high-movie&cartoon-movie&hongkong-movie&anime-drama",
